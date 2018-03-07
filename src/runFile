@@ -1,0 +1,2 @@
+python lstmA4.py --model=lstm --train --hidden_unit=64
+
