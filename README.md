@@ -13,5 +13,8 @@ For test:-
 Replace lstm with gru for training and testing gru.  
 Replace Hidden Unit Length as required.  
 
-The weights already stored are:-  
-  32  64  128 256  
+The weights already stored are as follows:-  
+  1.32  
+  2.64  
+  3.128   
+  4.256    
